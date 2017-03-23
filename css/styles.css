@@ -1,0 +1,20 @@
+body {
+	background-color: pink
+}
+
+li{
+  color: orange;
+}
+
+h1,h3{
+  color: purple;
+}
+
+.enjoy-message {
+
+	color : darkturquoise ;
+}
+
+.stop {
+	color: greenyellow;
+}
